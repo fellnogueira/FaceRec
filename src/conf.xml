@@ -1,0 +1,8 @@
+<conf>
+	<treshold>10</treshold>
+	<num_of_eigenfaces>16</num_of_eigenfaces>
+	<db_path>probes</db_path>
+    <eye_distance>63</eye_distance>
+    <eigen_face_width>125</eigen_face_width>
+    <eigen_face_height>150</eigen_face_height>
+</conf>
